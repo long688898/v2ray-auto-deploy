@@ -1,5 +1,5 @@
 # v2ray-auto-deploy
-# 脚本名称: auto_depl.sh
+# 脚本名称: auto_deploy.sh
 # 功能: 自动部署 Sing-box，支持 VLESS+TCP+XTLS 和 VLESS+TCP+TLS
 # 开源协议: 您可以选择一个开源协议，例如 MIT License
 # 注意事项:
